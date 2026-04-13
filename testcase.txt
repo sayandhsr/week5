@@ -1,0 +1,5 @@
+Test Case 1: Valid data → correct metrics
+Test Case 2: Missing values → handled
+Test Case 3: Merge works → no missing joins
+Test Case 4: Pivot table correct
+Test Case 5: Charts generated
